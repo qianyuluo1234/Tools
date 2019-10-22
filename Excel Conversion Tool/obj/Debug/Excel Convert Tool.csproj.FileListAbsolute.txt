@@ -1,0 +1,14 @@
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\bin\Debug\Excel Conversion Tool.exe.config
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\bin\Debug\Excel Conversion Tool.exe
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\bin\Debug\Excel Conversion Tool.pdb
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\bin\Debug\Excel.dll
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\bin\Debug\Newtonsoft.Json.dll
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\obj\Debug\Excel Convert Tool.csprojAssemblyReference.cache
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\obj\Debug\Excel_Conversion_Tool.ExcelTool.resources
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\obj\Debug\Excel_Conversion_Tool.Properties.Resources.resources
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\obj\Debug\Excel Convert Tool.csproj.GenerateResource.cache
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\obj\Debug\Excel Convert Tool.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\obj\Debug\Excel Convert Tool.csproj.CopyComplete
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\obj\Debug\Excel Conversion Tool.exe
+E:\Visual Studio Project\C# Project\Excel Convert Tool\Excel Conversion Tool\obj\Debug\Excel Conversion Tool.pdb

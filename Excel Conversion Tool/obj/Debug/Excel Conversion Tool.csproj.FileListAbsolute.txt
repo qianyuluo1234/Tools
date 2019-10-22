@@ -1,0 +1,13 @@
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\bin\Debug\Excel Conversion Tool.exe.config
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\bin\Debug\Excel Conversion Tool.exe
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\bin\Debug\Excel Conversion Tool.pdb
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\obj\Debug\Excel Conversion Tool.csprojAssemblyReference.cache
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\obj\Debug\Excel_Conversion_Tool.ExcelTool.resources
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\obj\Debug\Excel_Conversion_Tool.Properties.Resources.resources
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\obj\Debug\Excel Conversion Tool.csproj.GenerateResource.cache
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\obj\Debug\Excel Conversion Tool.exe
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\obj\Debug\Excel Conversion Tool.pdb
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\bin\Debug\Excel.dll
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\bin\Debug\Newtonsoft.Json.dll
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\work\Visual Studio Project\Excel Conversion Tool\Excel Conversion Tool\obj\Debug\Excel Conversion Tool.csproj.CopyComplete
